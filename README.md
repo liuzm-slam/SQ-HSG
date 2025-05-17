@@ -1,7 +1,5 @@
 # SQ-HSG: Hierarchical Semantic 3D Scene Graph Construction with Superquadric-Based Object Modeling
 
-# Project Title
-
 This repository contains the implementation of the method proposed in our paper.  
 The code will be made publicly available upon the acceptance of the paper.
 
