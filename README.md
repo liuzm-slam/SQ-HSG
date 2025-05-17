@@ -6,6 +6,12 @@ The code will be made publicly available upon the acceptance of the paper.
 > **Notice**  
 > The source code will be released after the paper is officially accepted for publication. Stay tuned!
 
+## Demo Video
+
+A short demonstration of our method is available on YouTube:  
+📺 [Watch the demo](https://youtu.be/eJmgWUtjGgM)
+📺 Additional demos will be provided upon paper acceptance. Stay tuned!
+
 ## Dependencies
 
 This project is built upon the following open-source libraries:
