@@ -10,6 +10,7 @@ The code will be made publicly available upon the acceptance of the paper.
 
 A short demonstration of our method is available on YouTube:  
 📺 [Watch the demo](https://youtu.be/eJmgWUtjGgM)
+
 📺 Additional demos will be provided upon paper acceptance. Stay tuned!
 
 ## Dependencies
@@ -28,6 +29,7 @@ This project is built upon the following open-source libraries:
 For further information, please contact:  
 ziming liu  
 Beijing Institute of Technology (bit)
+
 ziming_liu-bit@bit.edu.cn
 
 ---
